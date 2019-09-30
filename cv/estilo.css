@@ -1,0 +1,86 @@
+
+div {
+    color: rgb(0, 0, 0); 
+    float: left; 
+    border:1px solid gray;
+}
+.caja {
+    height: 400px;
+    width: 55%;
+    margin-bottom: 1%;
+    font-size: 21px;
+}
+.caja2 {
+    height: 550px;
+    width:30%;
+}
+.columna2 {
+    background:#5edfff;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 3%;
+    float: left;
+}
+.columna1 {
+    background: #b2fcff;
+    margin-top: 5%;
+    margin-left: 4%;
+}
+.columna3 {
+    background: #5edfff;
+    margin-right: 3%;
+    margin-left: 5%;
+    float: left;
+}
+.columna4 {
+    background: #4f81c7;
+    margin-right: 5.5%;
+    float: right;
+}
+.columna5 {
+    background: #3e64ff;
+    float: right;
+    margin-right: 5.5%;
+    margin-bottom: 4%;
+}
+ul {
+    font-size: 12px;
+}
+p{
+    font-size: 55%;
+    margin-left: 4%;
+    margin-right: 2%; 
+}
+h1,h2,h3,ul{
+    margin-left: 3%;
+}
+.paquio {
+  list-style:none;
+ 
+}
+.paquio img {
+    width:150px; 
+    height:150px;
+    margin: auto;
+    object-fit: cover;
+     float: left;
+}
+.peque{
+    width:330px;height:320px;
+    margin-left: 8%;
+    margin-top: 10%;
+    object-fit: cover;
+    border-radius: 95px;
+    border: 1px greenyellow solid;
+}
+.mmm{
+    margin-left: 10%;
+    background: #ececbb;
+    width: 320PX;
+    border: 1px grey solid;
+    margin-top: 10%;
+}
+.mmm h3 {
+    border: 1px grey solid;
+    margin: auto;
+}
