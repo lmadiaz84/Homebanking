@@ -12,7 +12,7 @@ window.onload = function() {
 }
 
 
-//Funciones que tenes que completar
+
 function cambiarLimiteDeExtraccion() {
     var ingresar = prompt();
     ingresar=parseInt(ingresar);
